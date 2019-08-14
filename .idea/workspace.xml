@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0ce42662-9e3a-4bf9-82c5-e739166ac77c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/util.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/util.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ziptil/ziptil.go" beforeDir="false" afterPath="$PROJECT_DIR$/ziptil/ziptil.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdtil/md2html.go" beforeDir="false" afterPath="$PROJECT_DIR$/mdtil/md2html.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
